@@ -1,6 +1,7 @@
 .shop{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    background-color: bisque;
 }
 .products-container{
     display: grid;
